@@ -23,3 +23,8 @@ Using **git init**, I initialized an empty GIT repository in my system.
 
 ### 1.2 Coursemates I shared the document with.
 I am sharing the file with Siddharth Tumre and Ravali Kuchibhotla.
+
+### 1.3 How I shared the document with the other two students?
+I have asked them their git usernames and gave them the access to my current repository by Settings->Manage Access-> and adding their usernames.
+
+After that I added my file to the repository of my coursemates by selecting upload files from the add file icon in the right top corner.
