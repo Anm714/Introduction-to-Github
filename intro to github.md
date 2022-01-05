@@ -22,9 +22,13 @@ Using **git init**, I initialized an empty GIT repository in my system.
 **git rm "file name"** can be used to remove a file from local Git repository and then after committing and pushing the same, the file will be removed from the Git account.
 
 ### 1.2 Coursemates I shared the document with.
-I am sharing the file with Siddharth Tumre and Ravali Kuchibhotla.
+I shared the file with Siddharth Tumre and Ravali Kuchibhotla.
 
-### 1.3 How I shared the document with the other two students?
-I have asked them their git usernames and gave them the access to my current repository by Settings->Manage Access-> and adding their usernames.
+### 1.3 What did we do together with the document after we shared it ?
+Initially we worked on three different markdown files and then we add each our files into the coursemates repository.
 
-After that I added my file to the repository of my coursemates by selecting upload files from the add file icon in the right top corner.
+### 1.4 How I shared the document with the other two students?
+I asked them for their git usernames and gave them the access to my current repository by Settings->Manage Access-> and then adding their usernames for direct access.
+
+### 1.5 What did the three of you do with the document ?
+Initially we worked on three different markdown files and then we add each our files into the coursemates repository. After that I added my file to the repository of my coursemates by selecting upload files from the add file icon in the right top corner. We can also add to shared repositories by cloning and pushing the files with necessary changes.
